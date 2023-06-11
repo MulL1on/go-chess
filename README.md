@@ -81,7 +81,7 @@ GET /join
 
 进入房间后界面如图
 
-![image-20230611232644354](C:\Users\Liang\AppData\Roaming\Typora\typora-user-images\image-20230611232644354.png)
+![img1](./img/image-20230611232644354.png)
 
 1. esc 切换聊天/命令模式
 
@@ -97,4 +97,4 @@ GET /join
 
 游戏截图
 
-![image-20230611233418303](C:\Users\Liang\AppData\Roaming\Typora\typora-user-images\image-20230611233418303.png)
+![image-20230611233418303](./img/image-20230611233418303.png)
